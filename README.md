@@ -8,4 +8,7 @@ https://projvinipaiva.github.io/JavaScript_Basico/Fucoes_do_JavasSript/fucoes.ht
 
 ## Aula 2 banco Funções:
 
+https://projvinipaiva.github.io/JavaScript_Basico/Aula_3/fucoe.html
+
+
 
