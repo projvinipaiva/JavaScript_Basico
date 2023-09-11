@@ -10,9 +10,14 @@ https://projvinipaiva.github.io/JavaScript_Basico/Funcoes_do_JavaScript/funcoes.
 
 https://projvinipaiva.github.io/JavaScript_Basico/Aula_3/index.html
 
-## Aula 4 IMC de formas:
+## Aula 4 IMC:
 
 https://projvinipaiva.github.io/JavaScript_Basico/Aula_4/index.html
+
+## Aula 5 Tabuada:
+
+https://projvinipaiva.github.io/JavaScript_Basico/tabuada/index.html
+
 
 
 
