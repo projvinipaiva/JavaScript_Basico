@@ -1,6 +1,18 @@
+body{
+    background-color: blanchedalmond;
+}
+
 h2{
     text-align: center;
+    font-family: monospace;
 }
 form{
     text-align: center;
+}
+
+input[type=button]{
+    font-family: monospace;
+    border-radius: solid;
+    color: black;
+    background-color:blanchedalmond;
 }
